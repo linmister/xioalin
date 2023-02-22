@@ -192,3 +192,13 @@
 ||mp.weixin.qq.com/mp/sync?action=getsharecardinfo
 ||mp.weixin.qq.com/mp/sync?action=get
 ||mmbiz.qpic.cn^*/ad/*$image
+||ad.weixin.qq.com^$third-party
+||adimg.vamaker.com^$third-party
+||adim.pinduoduo.com^$third-party
+||adsfile.qq.com^$third-party
+||cdn.vamaker.com^$third-party
+||openapi.vamaker.com^$third-party
+||qzonestyle.gtimg.cn^$third-party
+||rcgi.gtimg.com^$third-party
+||res.wx.qq.com^$third-party
+||wx.qlogo.cn^$third-party
