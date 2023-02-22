@@ -202,3 +202,7 @@
 ||rcgi.gtimg.com^$third-party
 ||res.wx.qq.com^$third-party
 ||wx.qlogo.cn^$third-party
+||msfxgv6.3g.qq.com^$domain=msfxgv6.3g.qq.com
+||msfxgv6.3g.qq.com^$third-party
+||msfxgv6.3g.qq.com/*$xmlhttprequest,domain=msfxgv6.3g.qq.com
+||info.zb.qq.com^$generichide
