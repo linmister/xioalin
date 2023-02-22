@@ -111,7 +111,6 @@
 ||tencent-cloud.net^*/ping?
 ||tencent-cloud.net^*/performance?
 ||tencent-cloud.net^*/hot?
-||aedns.weixin.qq.com^
 ||pos.baidu.com^$domain=weixin.qq.com
 ||adsfile.qq.com^$domain=weixin.qq.com
 ||ads.rayjump.com^$domain=weixin.qq.com
@@ -145,7 +144,6 @@
 ||api.shenjian.io^$domain=weixin.qq.com
 ||ax.damai.cn^$domain=weixin.qq.com
 ||fls-cn.qq.com^$domain=weixin.qq.com
-||mc.vip.qq
 ||mp.weixin.qq.com/mp/getappmsgad
 ||mp.weixin.qq.com/mp/getadvertisement
 ||mp.weixin.qq.com/mp/ad
