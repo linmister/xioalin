@@ -191,3 +191,4 @@
 ||mp.weixin.qq.com/mp/sync?action=getcardconsumedinfo
 ||mp.weixin.qq.com/mp/sync?action=getsharecardinfo
 ||mp.weixin.qq.com/mp/sync?action=get
+||mmbiz.qpic.cn^*/ad/*$image
